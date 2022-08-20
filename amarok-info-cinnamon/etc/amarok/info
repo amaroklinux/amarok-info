@@ -1,0 +1,7 @@
+RELEASE=22.08
+CODENAME=Rolling
+EDITION="Cinnamon"
+DESCRIPTION="Amarok Linux 22.08"
+DESKTOP=Gnome
+TOOLKIT=GTK
+GRUB_TITLE=Amarok Linux 22.08 Cinnamon

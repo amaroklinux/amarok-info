@@ -1,0 +1,7 @@
+RELEASE=22.08
+CODENAME=Rolling
+EDITION="Plasma"
+DESCRIPTION="Amarok Linux 22.08"
+DESKTOP=Plasma
+TOOLKIT=QT
+GRUB_TITLE=Amarok Linux 22.08 KDE Plasma

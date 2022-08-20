@@ -1,0 +1,47 @@
+Source: amarok-info
+Section: admin
+Priority: optional
+Maintainer: Amarok Linux <packages@amaroklinux.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 4.5.1
+
+Package: amarok-info-cinnamon
+Architecture: all
+Provides: amarok-info
+Depends: numlockx
+Description: Necessary information about the Amarok Linux release and edition.
+ Base package. This package is needed by the Amarok tools and the system to uniquely identify the edition and release of Amarok Linux you're using and to get information related to it.
+
+Package: amarok-info-gnome
+Architecture: all
+Provides: amarok-info
+Description: Necessary information about the Amarok Linux release and edition.
+ Base package. This package is needed by the Amarok tools and the system to uniquely identify the edition and release of Amarok Linux you're using and to get information related to it.
+
+Package: amarok-info-kde
+Architecture: all
+Provides: amarok-info
+Depends: amarok-kde-artwork
+Description: Necessary information about the Amarok Linux release and edition.
+ Base package. This package is needed by the Amarok tools and the system to uniquely identify the edition and release of Amarok Linux you're using and to get information related to it.
+
+Package: amarok-info-lxqt
+Architecture: all
+Provides: amarok-info
+Depends: numlockx
+Description: Necessary information about the Amarok Linux release and edition.
+ Base package. This package is needed by the Amarok tools and the system to uniquely identify the edition and release of Amarok Linux you're using and to get information related to it.
+
+Package: amarok-info-mate
+Architecture: all
+Provides: amarok-info
+Depends: numlockx
+Description: Necessary information about the Amarok Linux release and edition.
+ Base package. This package is needed by the Amarok tools and the system to uniquely identify the edition and release of Amarok Linux you're using and to get information related to it.
+
+Package: amarok-info-xfce
+Architecture: all
+Provides: amarok-info
+Depends: numlockx
+Description: Necessary information about the Amarok Linux release and edition.
+ Base package. This package is needed by the Amarok tools and the system to uniquely identify the edition and release of Amarok Linux you're using and to get information related to it.
